@@ -1,3 +1,5 @@
+# Medium Link:
+https://medium.com/analytics-vidhya/https-medium-com-analytics-vidhya-a-great-project-for-ml-aspirants-30447981d35
 # Finding Missing people through AI
 
 Machine Learning project to find people from an Image.
